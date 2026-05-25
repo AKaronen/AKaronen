@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My repos are mostly school work at the moment<br>👀 I’m interested in machine learning and data-science<br>🌱 I’m currently working on Knowledge Distillation in CERN CMS L1T
+👋 My repos are mostly school work at the moment<br>👀 I’m interested in machine learning and data-science
 
 
 ## 🌐 Socials:
